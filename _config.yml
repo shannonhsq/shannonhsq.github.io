@@ -1,6 +1,5 @@
-#theme: jekyll-theme-minimal
-#plugins: jekyll-include-cache
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-#jekyll-theme-minimal:
- # skin: dark
- theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
+plugins: jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+jekyll-theme-minimal:
+  skin: dark
