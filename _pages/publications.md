@@ -1,11 +1,8 @@
 ---
-layout: page
-title: "Publications"
 permalink: /publications/
-author_profile: true
+title: "Publications"
+layout: single
 
-
-
+toc: true
 ---
-
 # Publications
