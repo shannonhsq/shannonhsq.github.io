@@ -1,13 +1,8 @@
----
-title: "About Me"
-layout: single
----
+#About Me
 
 I am a first-year PhD student at the [MINDS CDT](https://www.mindscdt.southampton.ac.uk) at the University of Southampton. 
 
----
-title: "Education"
----
+#Education
 
 #### B.Sc (Hons) - Data Science and Analytics  (Aug 2016 - Jun 2020)
 * National University of Singapore
