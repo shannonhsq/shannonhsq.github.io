@@ -3,5 +3,5 @@ permalink: /experience/
 title: "Experience"
 layout: single
 
-toc: true
+toc: false
 ---
