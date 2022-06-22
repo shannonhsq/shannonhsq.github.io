@@ -297,6 +297,12 @@ compress_html:
 
 # Defaults
 defaults:
+ - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
   # _pages
   - scope:
@@ -313,7 +319,5 @@ defaults:
       layout: single
       read_time: false
       author_profile: true
-      share: false
-      comments: false
       sidebar:
         nav: "docs"
