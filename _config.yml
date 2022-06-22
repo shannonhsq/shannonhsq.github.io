@@ -33,7 +33,7 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Shannon How
+title                    : #"Shannon How"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : #"Shannon How"
