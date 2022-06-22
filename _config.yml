@@ -40,7 +40,7 @@ name                     : #"Shannon How"
 description              : #"An amazing website."
 url                      : #"https://shannonhsq.github.io"
 baseurl                  : #"https://shannonhsq.github.io/shannonhsq/"
-repository               : #"shannonhsq.github.io"
+repository               : "shannonhsq.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -68,7 +68,7 @@ comments:
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
     theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
-    branch               : # "master"
+    branch               : "gh-pages"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
@@ -295,15 +295,23 @@ compress_html:
 
 
 # Defaults
-defaults:
+#defaults:
   # _posts
+ # - scope:
+  #    path: ""
+   #   type: posts
+    #values:
+     # layout: single
+      #author_profile: true
+      #read_time: true
+      #comments: # true
+      #share: true
+      #related: true
+defaults:
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
