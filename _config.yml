@@ -125,11 +125,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student"
   location         : "Southampton, United Kingdom"
-  email            :
+  email            : "mailto:shannonhsq@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:shannonhsq@gmail.com"
+       #url: "mailto:shannonhsq@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
