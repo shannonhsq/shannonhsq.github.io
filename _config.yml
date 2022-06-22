@@ -8,7 +8,7 @@ plugins:
   - jekyll-feed
   - jemoji
 #remote_theme: jekyll/minima
-remote_theme: benbalter/retlab
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#remote_theme: benbalter/retlab
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minima:
   skin: dark
