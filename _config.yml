@@ -304,7 +304,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       
   # _pages
   - scope:
@@ -312,7 +312,9 @@ defaults:
       type: pages
     values:
       layout: single
+      read_time: false
       author_profile: true
+      
   # _docs
   - scope:
       path: ""
