@@ -32,13 +32,13 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-GB"
 title                    : "Shannon How"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : #"Shannon How"
 description              : #"An amazing website."
-url                      : #"https://shannonhsq.github.io"
+url                      : "https://shannonhsq.github.io"
 baseurl                  : #"https://shannonhsq.github.io/shannonhsq/"
 repository               : "shannonhsq.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -121,10 +121,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Shannon How"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "PhD Student at the University of Southampton"
+  location         : "Southampton, United Kingdom"
   email            :
   links:
     - label: "Email"
