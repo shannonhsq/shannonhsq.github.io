@@ -1,6 +1,12 @@
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 #remote_theme: jekyll/minima
 remote_theme: benbalter/retlab
 #remote_theme: "mmistakes/minimal-mistakes@4.24.0"
