@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
@@ -9,7 +11,7 @@ plugins:
   - jemoji
 #remote_theme: jekyll/minima
 #remote_theme: benbalter/retlab
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark"
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 #minima:
  # skin: dark
