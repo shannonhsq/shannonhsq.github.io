@@ -38,9 +38,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : #"Shannon How"
 description              : #"An amazing website."
-url                      : "https://shannonhsq.github.io"
-baseurl                  : "https://shannonhsq.github.io/shannonhsq/"
-repository               : "shannonhsq.github.io"
+url                      : #"https://shannonhsq.github.io"
+baseurl                  : #"https://shannonhsq.github.io/shannonhsq/"
+repository               : #"shannonhsq.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
