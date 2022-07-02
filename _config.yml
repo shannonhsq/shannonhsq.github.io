@@ -126,6 +126,7 @@ author:
   bio              : "PhD Student"
   location         : "Southampton, United Kingdom"
   email            : "mailto:shannonhsq@gmail.com"
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
