@@ -122,7 +122,7 @@ analytics:
 # Site Author
 author:
   name             : "Shannon How"
-  avatar           : "/_assets/image_1.jpeg"
+  avatar           : "_assets/image_1.jpeg"
   bio              : "PhD Student"
   location         : "Southampton, United Kingdom"
   email            : "mailto:shannonhsq@gmail.com"
