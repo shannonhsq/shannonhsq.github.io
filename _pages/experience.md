@@ -11,6 +11,6 @@ toc: false
   *   Deloitte 
 
 
-* #### Future Intelligence Technologies (Jan 2020 - May 2020)
+* #### Future Intelligence Technologies Intern (Jan 2020 - May 2020)
   *   Rolls-Royce Singapore Pte Ltd 
 
