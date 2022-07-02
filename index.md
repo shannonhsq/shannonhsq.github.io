@@ -6,4 +6,3 @@ I am a first-year PhD student at the [MINDS CDT](https://www.mindscdt.southampto
 
 My research interests include machine learning and federated learning. 
 
-
