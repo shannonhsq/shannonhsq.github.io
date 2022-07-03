@@ -1,7 +1,6 @@
 ---
 permalink: /experience/
-title: "Experience"  [<i class="fas fa-download"></i> Download CV](https://github.com/shannonhsq/shannonhsq.github.io/raw/gh-pages/download/CV-Shannon.pdf){: .btn .btn--success}
-
+title: "Experience" 
 
 layout: single
 
@@ -18,3 +17,4 @@ toc: false
 
 
 
+ [<i class="fas fa-download"></i> Download CV](https://github.com/shannonhsq/shannonhsq.github.io/raw/gh-pages/download/CV-Shannon.pdf){: .btn .btn--success}
