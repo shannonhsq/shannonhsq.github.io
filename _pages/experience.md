@@ -6,7 +6,7 @@ layout: single
 toc: false
 ---
 
-
+<a href="download/CV-Shannon How.pdf">Download CV</a>
 [<i class="fas fa-download"></i> Download CV](download/CV-Shannon How.pdf){: .btn .btn--success}
 
 
