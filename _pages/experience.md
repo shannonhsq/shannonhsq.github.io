@@ -1,10 +1,7 @@
 ---
 permalink: /experience/
 title: "Experience" 
-header:
-  overlay_color: "#5e616c"
-  actions:
-    - label: "<i class="fas fa-download"></i> Download CV](https://github.com/shannonhsq/shannonhsq.github.io/raw/gh-pages/download/CV-Shannon.pdf){: .btn .btn--success .btn--primary}"
+
 layout: single
 
 toc: false
