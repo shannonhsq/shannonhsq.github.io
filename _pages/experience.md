@@ -6,8 +6,8 @@ layout: single
 toc: false
 ---
 
-<a href="download/CV-Shannon How.pdf">Download CV</a>
-[<i class="fas fa-download"></i> Download CV](download/CV-Shannon How.pdf){: .btn .btn--success}
+
+[<i class="fas fa-download"></i> Download CV](https://github.com/github.io/shannonhsq.github.io/download/CV-Shannon How.pdf){: .btn .btn--success}
 
 
 * #### Data Scientist (Oct 2020 - Sep 2021)
