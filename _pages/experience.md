@@ -16,4 +16,6 @@ toc: false
   *   Rolls-Royce Singapore Pte Ltd 
 
 
- [<i class="fas fa-download"></i> Download CV](https://github.com/shannonhsq/shannonhsq.github.io/raw/gh-pages/download/CV-Shannon.pdf){: .btn .btn--success .btn--primary}
+ #[<i class="fas fa-download"></i> Download CV](https://github.com/shannonhsq/shannonhsq.github.io/raw/gh-pages/download/CV-Shannon.pdf){: .btn .btn--success .btn--primary}
+
+ [<i class="icon-cog blackiconcolor"></i> Download CV](https://github.com/shannonhsq/shannonhsq.github.io/raw/gh-pages/download/CV-Shannon.pdf){: .btn .btn--success .btn--primary}
