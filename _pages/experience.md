@@ -7,7 +7,7 @@ toc: false
 ---
 
 
-[<i class="fas fa-download"></i> Download CV](https://github.com/shannonhsq.github.io/download/CV-Shannon.pdf){: .btn .btn--success}
+[<i class="fas fa-download"></i> Download CV](https://github.com/shannonhsq/shannonhsq.github.io/blob/gh-pages/download/CV-Shannon.pdf){: .btn .btn--success}
 
 
 * #### Data Scientist (Oct 2020 - Sep 2021)
