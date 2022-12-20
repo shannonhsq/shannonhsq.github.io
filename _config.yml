@@ -126,13 +126,13 @@ author:
   bio              : "PhD Student"
   location         : "Southampton, United Kingdom"
   email            : 
-  #googlescholar    : "https://scholar.google.com/citations?hl=en&user=8TYtKRcAAAAJ"
+  googlescholar    :
 
   
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-     url: "mailto:shanh1907@gmail.com"
+      url: "mailto:shanh1907@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
