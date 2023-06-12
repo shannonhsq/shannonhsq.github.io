@@ -42,3 +42,7 @@
 @import "print";
 
 @import "custom";
+
+.ai:before{
+	font-family: Academicons;
+	     }
