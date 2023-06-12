@@ -135,7 +135,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:shanh1907@gmail.com"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shannon-how-974a8727a/"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square ai-3x"
