@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+
 #theme: jekyll-theme-minimal
 #theme: minimal-mistakes-jekyll
 #minimal_mistakes_skin: "dark"
