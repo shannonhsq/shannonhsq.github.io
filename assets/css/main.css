@@ -35,7 +35,7 @@
 @import "sidebar";
 
 @import "vendor/font-awesome/fontawesome";
-@import url(academicons.min.css);
+@import "assets/css/academicons.min.css;
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
