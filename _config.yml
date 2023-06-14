@@ -139,7 +139,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shannon-how-974a8727a/"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square ai-3x"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=8TYtKRcAAAAJ&hl=en&authuser=3"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
