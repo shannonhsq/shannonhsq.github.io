@@ -18,7 +18,7 @@ toc: false
 
 
 * #### Future Intelligence Technologies Intern (Jan 2020 - May 2020)
-  *   Rolls-Royce Singapore Pte Ltd 
+  *   Rolls-Royce 
 
 
 
