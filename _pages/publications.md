@@ -7,7 +7,7 @@ toc: false
 ---
 
 #### 2025
-* ##### [FedTMOS: Efficient One-Shot Federated Learning with Tsetlin Machine](https://openreview.net/forum?id=44hcrfzydU) <span style="font-weight: normal; font-size: smaller;">(Best Student Paper)</span> 
+* ##### [FedTMOS: Efficient One-Shot Federated Learning with Tsetlin Machine](https://openreview.net/forum?id=44hcrfzydU)
 **Shannon Shi Qi How**, Chauhan, Jagmohan, Merrett, Geoff V. and Hare, Jonathan (2025) FedTMOS: Efficient One-Shot Federated Learning with Tsetlin Machine. The Thirteenth International Conference on Learning Representations (ICLR) 
 
 #### 2023
