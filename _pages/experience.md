@@ -8,7 +8,7 @@ toc: false
 ---
 
 
-   [<i class="fas fa-download"></i> Download CV](https://github.com/shannonhsq/shannonhsq.github.io/raw/gh-pages/downloads/CV-Shannon.pdf){: .btn .btn--success .btn--primary}
+   [<i class="fas fa-download"></i> Download CV](https://github.com/shannonhsq/shannonhsq.github.io/raw/gh-pages/downloads/CV___Shannon_How.pdf){: .btn .btn--success .btn--primary}
 
 
 
