@@ -13,7 +13,7 @@ toc: false
 
 * ###### Summer Associate, Fixed Income Macro Strats (Jun 2025 - Aug 2025)
   *   Goldman Sachs 
-
+ 
 * ###### Data Scientist, Risk Advisory (Oct 2020 - Sep 2021)
   *   Deloitte 
 
