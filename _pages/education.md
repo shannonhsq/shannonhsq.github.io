@@ -11,4 +11,5 @@ toc: false
 
 * ###### PhD - Machine Intelligence for Nano-Electronic Devices and Systems (MINDS) (Sep 2021 - present)
   *   University of Southampton
+    
 
